@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Desinic Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Desinic Desktop Demo](![alt text](2.png)"Desktop Demo")
 
 ### Prerequisites
 
